@@ -15,7 +15,7 @@ public class HelloWorld
     System.out.println("hi");
     int coryAge = 20;
     double isaacAge = 69.69;
-    String message = "this is a list of letters that java can use";
+    //String message = "this is a list of letters that java can use";
     double totalAge  = coryAge + isaacAge; //
     //34.5
     System.out.println("Corys age is: " + coryAge + " isaacs age is: " + isaacAge);
