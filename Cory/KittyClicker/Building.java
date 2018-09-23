@@ -1,3 +1,5 @@
+package Cory.KittyClicker;
+
 /**
  * A building is a purchasable item in clickergame used to make more money per seccond
  *

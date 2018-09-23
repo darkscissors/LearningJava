@@ -1,3 +1,4 @@
+package Cory.KittyClicker;
 /**
  * Clickergame is the main classfile of this game, it handles money and rendering the images and text along with keeping time.
  * 

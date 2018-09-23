@@ -1,3 +1,5 @@
+package Cory.KittyClicker;
+
 import java.util.Calendar;
 import java.io.Serializable;
 /**

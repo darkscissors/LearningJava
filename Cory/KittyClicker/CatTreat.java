@@ -1,3 +1,5 @@
+package Cory.KittyClicker;
+
 /**
  * CatTreat is a class object to handle the moving treats and their logic along with visibility
  *

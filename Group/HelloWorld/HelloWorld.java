@@ -1,4 +1,5 @@
-package Projects;
+package Group.HelloWorld;
+
 
 public class HelloWorld
 {

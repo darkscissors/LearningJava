@@ -1,3 +1,5 @@
+package Cory.KittyClicker;
+
 /**
  * @author Cory
  * @version 6/1/18
